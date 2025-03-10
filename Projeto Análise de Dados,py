@@ -28,7 +28,7 @@ tabela.info()
 #Excluir coluna que não é importante 
 tabela = tabela.drop(columns= "meses_ultima_interacao")
 display(tabela)
-(Run the code)
+(Run the code) 
 
 
 #Vixualizar a tabela com as atualizações
