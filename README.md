@@ -1,1 +1,1 @@
-Hello World! Here you'll find my Python projects.
+Hello World! Here you'll find my Python projects/activities.
