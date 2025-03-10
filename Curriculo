@@ -1,0 +1,212 @@
+HTML: 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+    <link rel="stylesheet" href="atv_curriculo.css">
+</head>
+<body>
+    <h1 class="nome">Victor Samuel Dos Reis Queiroz</h1>
+    <p class="informacao">Celular: +55 31 9 8314-1663 | E-mail: victorsamuel4747@gmail.com <br>
+        LinkedIn: <a href="www.linkedin.com/in/victorsamuelreis">www.linkedin.com/in/victorsamuelreis</a> | Github: <a href="https://github.com/victorsamuelreis">https://github.com/victorsamuelreis</a> | Minas Gerais - Contagem</p>
+
+    <h2 class="titulo_objetivo">Objetivo</h2>
+    <p class="objetivo">Busco uma oportunidade na área de Tecnologia da Informação, com foco em desenvolvimento
+        de software, onde possa aplicar e expandir meus conhecimentos em programação,
+        desenvolvimento de sistemas e automação. Meu objetivo é contribuir para o crescimento da
+        empresa por meio da criação de soluções tecnológicas eficientes e inovadoras, enquanto
+        aprimoro minhas habilidades técnicas e adquiro novos conhecimentos no setor.</p>
+    
+    <h2 class="titulo_formacao">Formação</h2>
+    <p class="graduacao1"><strong>Ensino superior em Análise e Desenvolvimento de Sistemas</strong> | Faculdade Anhaguera | 3º Periddo | 01/2024 - 07/2026</p>
+    <p class="graduacao2"><strong>Aprendizagem em Automação Industrial</strong> | Senai | 09/2022 - 08/2023</p>
+    <p class="graduacao3"><strong>Técnico em Automação Industrial</strong> | Senai | 10/2024 - 10/2026</p>
+    <br>
+
+    <h2 class="titulo_experiencia">Experiência profional</h2>
+    <p class="empresa"><b class="negrito1">Vallourec Soluções Tubulares do Brasil</b> - 09/2022 até 03/2024 - 1 ano e 6 meses</p>
+    <p class="cargo">Jovem Aprendiz em automação industrial na área de análise e desenvolvimento de sistemas |
+        09/2022 - 03/2024</p>
+    <p class="resp"><strong>Responsabilidades:</strong></p>
+    <ul>
+        <li>Aprimoramento do sistema de rastreamento da empresa com implementações</li>
+        <li>Desenvolvimento de sistemas utilizando lógicas de programação como C# (.Net
+            framework), Windows Forms, HTML e CSS, e banco de dados.</li>
+        <li>Criação e edição de layouts e tabelas em MySQL, Oracle e Excel.</li>
+    </ul>
+    <br>
+
+    <h2 class="titulo_habilidades">Habilidades</h2>
+    <p class="tecnicas">Tecnicas: </p>
+
+    <ul>
+        <li>Python intermediário.</li>
+        <li>Java Básico.</li>
+        <li>Html e Css Básico.</li>
+        <li>Pacote Office: Word, Power Point, Power BI e Excel.</li>
+        <li>Automação industrial</li>
+        <li>Desenvolvimento de software.</li>
+        <li>Analise de dados.</li>
+        <li>Metodologia Ágeis</li>
+    </ul>
+    
+    <p class="interpessoais">Interpessoais: </p>
+    <ul>
+        <li>Proatividade</li>
+        <li>Trabalho em equipe.</li>
+        <li>Boa comunicação.</li>
+        <li>Resolução de problemas.</li>
+        <li>Criatividade.</li>
+        <li>Resiliência.</li>
+        <li>Aprendizagem rápida</li>
+    </ul>
+    <br>
+
+    <h2 class="titulo_cursos">Cursos / Certificados</h2>
+    <p class="cursos">Cursos: </p>
+    <ul>
+        <li>Desenvolvedor de interfaces com Angular (HTML5, CSS3, JavaScript, TypeScript) | Jornada do Dev</li>
+        <li>Java COMPLETO 2023 Programação Orientada a Objetos + Projetos | Udemy</li>
+        <li>C# COMPLETO Programação Orientada a Objetos + Projetos | Udemy</li>
+        <li>Algoritmos e Lógica de Programação - O Curso COMPLETO | Udemy</li>
+        <li>Analise de dados com Python | Anhanguera</li>
+    </ul>
+    <br>
+
+    <h2 class="titulo_idiomas">Idiomas</h2>
+    <p class="idioma1"><strong>Ingles</strong> - Intermediario (B1)</p>
+    <p class="idioma2"><strong>Português</strong> - Nativo (A2)</p>
+    <p class="idioma3"><strong>Espanhol</strong> - Basico (C2)</p>
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CSS: body {
+    background-color: #F5F5F5;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1150px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 17px;
+}
+
+.nome {
+    background-color: #836FFF;
+    color: #000080;
+    text-align: center;
+    font-weight: bold;
+}
+
+.informacao {
+    text-align: center;
+    font-size: small;
+    padding-bottom: 15px;
+}
+
+.titulo_objetivo {
+    background-color: #dbd6d68c;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 3px solid #000080;
+    color: #000080;
+    padding: 8px;
+}
+
+.objetivo {
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 18px;
+}
+
+.titulo_experiencia {
+    background-color: #dbd6d68c;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 3px solid #000080;
+    color: #000080;
+    padding: 8px;
+}
+
+b {
+    color: #0000CD;
+}
+
+.titulo_formacao{
+    background-color: #dbd6d68c;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 3px solid #000080;
+    color: #000080;
+    padding: 8px;
+}
+
+
+
+.empresa {
+    font-weight: bold;
+    font-size: 17px
+}
+
+.cargo {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+ul li {
+    list-style-position: outside;
+}
+
+.titulo_habilidades{
+    background-color: #dbd6d68c;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 3px solid #000080;
+    color: #000080;
+    padding: 8px;
+}
+
+.tecnicas{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.resp {
+    text-decoration: underline;
+}
+
+.interpessoais{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.titulo_cursos{
+    background-color: #dbd6d68c;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 3px solid #000080;
+    color: #000080;
+    padding: 8px;
+}
+
+.titulo_idiomas{
+    background-color: #dbd6d68c;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 3px solid #000080;
+    color: #000080;
+    padding: 8px;
+}
+
+.idioma3{
+    padding-bottom: 20px;
+}
+
+.cursos{
+    font-weight: bold;
+}
