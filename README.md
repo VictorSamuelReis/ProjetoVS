@@ -42,11 +42,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/VictorSamuelReis/VictorSamuelReis/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="150" src=""  />
-</div>
-
-###
