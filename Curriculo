@@ -10,7 +10,7 @@ HTML:
 <body>
     <h1 class="nome">Victor Samuel Dos Reis Queiroz</h1>
     <p class="informacao">Celular: +55 31 9 8314-1663 | E-mail: victorsamuel4747@gmail.com <br>
-        LinkedIn: <a href="www.linkedin.com/in/victorsamuelreis">www.linkedin.com/in/victorsamuelreis</a> | Github: <a href="https://github.com/victorsamuelreis">https://github.com/victorsamuelreis</a> | Minas Gerais - Contagem</p>
+        LinkedIn: <a href="www.linkedin.com/in/victorsamuelreis">www.linkedin.com/in/victorsamuelreis</a> | Github: <a href="https://github.com/VictorSamuelReis">https://github.com/victorsamuelreis</a> | Minas Gerais - Contagem</p>
 
     <h2 class="titulo_objetivo">Objetivo</h2>
     <p class="objetivo">Busco uma oportunidade na área de Tecnologia da Informação, com foco em desenvolvimento
@@ -20,7 +20,7 @@ HTML:
         aprimoro minhas habilidades técnicas e adquiro novos conhecimentos no setor.</p>
     
     <h2 class="titulo_formacao">Formação</h2>
-    <p class="graduacao1"><strong>Ensino superior em Análise e Desenvolvimento de Sistemas</strong> | Faculdade Anhaguera | 3º Periddo | 01/2024 - 07/2026</p>
+    <p class="graduacao1"><strong>Ensino superior em Análise e Desenvolvimento de Sistemas</strong> | Faculdade Anhaguera | 01/2024 - 07/2026 | 3º Periddo</p>
     <p class="graduacao2"><strong>Aprendizagem em Automação Industrial</strong> | Senai | 09/2022 - 08/2023</p>
     <p class="graduacao3"><strong>Técnico em Automação Industrial</strong> | Senai | 10/2024 - 10/2026</p>
     <br>
@@ -46,12 +46,12 @@ HTML:
         <li>Java Básico.</li>
         <li>Html e Css Básico.</li>
         <li>Pacote Office: Word, Power Point, Power BI e Excel.</li>
-        <li>Automação industrial</li>
         <li>Desenvolvimento de software.</li>
         <li>Analise de dados.</li>
         <li>Metodologia Ágeis</li>
+        <li>Proeficiência em automação industrial.</li>
     </ul>
-    
+
     <p class="interpessoais">Interpessoais: </p>
     <ul>
         <li>Proatividade</li>
